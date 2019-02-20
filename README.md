@@ -1,6 +1,6 @@
 # complex_hailstone_sequence
 
-The hailstone sequence is one dened by
+The hailstone sequence is one defined by
 Xn = X(n-1)/2 if xn-1 is even
       3* Xn-1 + 1 otherwise
 Eventually, for natural number values of X1, the hailstone sequence will converge to the cycle Xr = 1; Xr+1 =
